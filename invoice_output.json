@@ -1,0 +1,18 @@
+{
+  "vendor_name": "SUNRISE PG FOR MEN",
+  "invoice_number": "600",
+  "invoice_date": "2019-11-19",
+  "due_date": null,
+  "currency": "INR",
+  "subtotal": null,
+  "tax": null,
+  "total": 24000,
+  "line_items": [
+    {
+      "description": "Rent for November 19th 2019 - 28th Nov 2019",
+      "quantity": 1,
+      "unit_price": 24000,
+      "amount": 24000
+    }
+  ]
+}
