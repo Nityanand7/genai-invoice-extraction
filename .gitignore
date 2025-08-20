@@ -1,0 +1,25 @@
+# Python cache / build
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment & API Keys
+.env
+*.env
+apikey.txt
+credentials.json
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Colab temp files
+*.log

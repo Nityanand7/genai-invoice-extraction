@@ -1,0 +1,11 @@
+# Core Google Generative AI SDK
+google-genai>=1.30.0
+
+# Data validation and structured output
+pydantic>=2.0
+
+# For environment variable handling (optional, if you want .env files)
+python-dotenv>=1.0
+
+# Colab automatically includes most of the basics, but these help run locally
+requests>=2.31.0
